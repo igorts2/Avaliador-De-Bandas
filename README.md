@@ -1,4 +1,5 @@
-Avaliador de Bandas
+Avaliador de Bandas.
+
 Este é um aplicativo simples em C# chamado "Screen Sound" que permite aos usuários registrar, avaliar e calcular a média de bandas musicais. O programa é executado em um console e oferece uma interface de texto interativa para realizar as seguintes operações:
 
 Funcionalidades:
